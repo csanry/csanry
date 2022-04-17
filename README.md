@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 🔭 I'm currently pursuing a Master's in Analytics at the Singapore Management University. 
 - 💻 I enjoy applying data science techniques to aid business decision making and promote growth.
 - 🌱 I have 3 years of marketing analytics experience spanning across various industries, where I helped marketing teams make better decisions through MMM and Analytics techniques.
-<br>
 
 <br>
 
@@ -35,9 +34,9 @@ Here are some ideas to get you started:
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 
 <p align="left">
-  <a href="https://github.com/scikit-learn/scikit-learn/"><img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=scikit-learn&repo=scikit-learn&theme=prussian&hide_border=true&show_icons=true" alt=""></a>
-  <a href="https://github.com/altair-viz/altair/"><img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=altair-viz&repo=altair&theme=prussian&hide_border=true&show_icons=true" alt=""></a>
-  <a href="https://github.com/csanry/mlalgos/"><img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=csanry&repo=mlalgos&theme=prussian&hide_border=true&show_icons=true" alt=""></a>
+  <a href="https://github.com/scikit-learn/scikit-learn/"><img width="270" src="https://github-readme-stats.vercel.app/api/pin/?username=scikit-learn&repo=scikit-learn&theme=prussian&hide_border=true&show_icons=true" alt=""></a>
+  <a href="https://github.com/altair-viz/altair/"><img width="270" src="https://github-readme-stats.vercel.app/api/pin/?username=altair-viz&repo=altair&theme=prussian&hide_border=true&show_icons=true" alt=""></a>
+  <a href="https://github.com/csanry/mlalgos/"><img width="270" src="https://github-readme-stats.vercel.app/api/pin/?username=csanry&repo=mlalgos&theme=prussian&hide_border=true&show_icons=true" alt=""></a>
 </p>
 
 # 📃 Stats
