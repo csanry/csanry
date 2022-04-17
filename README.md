@@ -19,14 +19,10 @@ Here are some ideas to get you started:
 - 💻 I enjoy applying data science techniques to aid business decision making and promote growth.
 - 🌱 I have 3 years of marketing analytics experience spanning across various industries, where I helped marketing teams make better decisions through MMM and Analytics techniques.
 
-<br>
-
 # 🎯 Learning
 <a href=""><img alt="" src="https://img.shields.io/badge/ML-machine%20learning-green"></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/NLP-natural%20language%20processing-blue"></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/DL-deep%20learning-yellow"></a>
-
-<br>
 
 # 🔥 Focusing  
 
