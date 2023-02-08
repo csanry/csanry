@@ -20,14 +20,10 @@ Here are some ideas to get you started:
 - 🌱 I have 4 years of marketing and data analytics experience spanning across various industries, where I helped marketing teams make better decisions through MMM and Analytics techniques.
 <br>
 
-<br>
-
-# 🧐 Learning
+# 🎯 Learning
 <a href=""><img alt="" src="https://img.shields.io/badge/ML-machine%20learning-green"></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/NLP-natural%20language%20processing-blue"></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/DL-deep%20learning-yellow"></a>
-
-<br>
 
 # 🔥 Focusing  
 
@@ -35,17 +31,17 @@ Here are some ideas to get you started:
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 
 <p align="left">
-  <a href="https://github.com/scikit-learn/scikit-learn/"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=scikit-learn&repo=scikit-learn&theme=prussian&hide_border=true&show_icons=true" alt=""></a>
-  <a href="https://github.com/altair-viz/altair/"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=altair-viz&repo=altair&theme=prussian&hide_border=true&show_icons=true" alt=""></a>
-  <a href="https://github.com/csanry/mlalgos/"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=csanry&repo=mlalgos&theme=prussian&hide_border=true&show_icons=true" alt=""></a>
+  <a href="https://github.com/scikit-learn/scikit-learn/"><img width="270" src="https://github-readme-stats.vercel.app/api/pin/?username=scikit-learn&repo=scikit-learn&theme=prussian&hide_border=true&show_icons=true" alt=""></a>
+  <a href="https://github.com/altair-viz/altair/"><img width="270" src="https://github-readme-stats.vercel.app/api/pin/?username=altair-viz&repo=altair&theme=prussian&hide_border=true&show_icons=true" alt=""></a>
+  <a href="https://github.com/csanry/mlalgos/"><img width="270" src="https://github-readme-stats.vercel.app/api/pin/?username=csanry&repo=mlalgos&theme=prussian&hide_border=true&show_icons=true" alt=""></a>
 </p>
 
-# 📕 Stats
+# 📃 Stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 
-<p align="centre">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=csanry&theme=prussian&hide_border=true">
+<p align="center">
+  <img width ="600" src="https://github-readme-streak-stats.herokuapp.com/?user=csanry&theme=prussian&hide_border=true">
 </p>
 
 
@@ -53,7 +49,7 @@ Here are some ideas to get you started:
 
 # 🛠️ My favorite tools
 
-## 🖥️ Programming and markup languages
+### 🖥️ Programming and markup languages
 
 <p>
     <a href="https://github.com/search?q=user%3Acsanry+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -66,7 +62,7 @@ Here are some ideas to get you started:
     <a href="https://github.com/search?q=user%3Acsanry+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
-## 🧰 Frameworks and libraries
+### 🧰 Frameworks and libraries
 
 <p>
     <a href="#"><img alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE?logo=Apache%20Airflow&logoColor=white"></a>
@@ -79,7 +75,7 @@ Here are some ideas to get you started:
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
 </p>
 
-## 🗄️ Databases, Cloud, BI 
+### 🗄️ Databases and cloud hosting
 
 <p>
     <a href="#"><img alt="GCP" src="https://img.shields.io/badge/GCP-%234285F4.svg?logo=google-cloud&logoColor=white"></a>
@@ -91,7 +87,7 @@ Here are some ideas to get you started:
     <a href="#"><img alt="Tableau" src ="https://img.shields.io/badge/Tableau-023020?logo=tableau&logoColor=white"></a>
 </p>
 
-## 💻 Software and tools
+### 🔨 Software and tools
 
 <p>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
