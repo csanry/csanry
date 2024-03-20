@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm currently pursuing a Master's in Analytics at the Singapore Management University. 
+- 🔭 I have a Master's in Analytics at the Singapore Management University. 
 - 🧑‍💻 I enjoy applying data science techniques to aid business decision making and promote growth.
-- 🌱 I have 4 years of marketing and data analytics experience spanning across various industries, where I helped marketing teams make better decisions through MMM and Analytics techniques.
+- 🌱 I have 5 years of marketing and data analytics experience spanning across various industries, where I helped marketing teams make better decisions through MMM and Analytics techniques.
 <br>
 
 # 🎯 Learning
