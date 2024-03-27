@@ -1,29 +1,27 @@
-# 👋 Hi there, I'm Clarence
+<h1 align="left">👋 Hi there, I'm Clarence</h1>
 
-<!--
-**csanry/csanry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/data%20analytics-34113F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/data%20science-535ECF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/machine%20learning-107E7D?style=for-the-badge">
+  <img src="https://img.shields.io/badge/deep%20learning-E3B505?style=for-the-badge">
+  <img src="https://img.shields.io/badge/natural%20language%20processing-CF539C?style=for-the-badge">
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 🔭 I have a Master's in Analytics at the Singapore Management University. 
+- 🔭 I have a Master's in Analytics at the Singapore Management University.
 - 🧑‍💻 I enjoy applying data science techniques to aid business decision making and promote growth.
 - 🌱 I have 5 years of marketing and data analytics experience spanning across various industries, where I helped marketing teams make better decisions through MMM and Analytics techniques.
+
 <br>
 
-# 🎯 Learning
-<a href=""><img alt="" src="https://img.shields.io/badge/ML-machine%20learning-green"></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/NLP-natural%20language%20processing-blue"></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/DL-deep%20learning-yellow"></a>
+# 🎯 Quick links 
+
+<p align="left">
+  <a href="https://csanry.github.io/" target="_blank"><img src="https://img.shields.io/badge/personal%20site-FF7E33?style=for-the-badge&logo=GitBook&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/clarencesan/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+<br>
 
 # 🔥 Focusing  
 
@@ -36,6 +34,8 @@ Here are some ideas to get you started:
   <a href="https://github.com/csanry/mlalgos/"><img width="270" src="https://github-readme-stats.vercel.app/api/pin/?username=csanry&repo=mlalgos&theme=prussian&hide_border=true&show_icons=true" alt=""></a>
 </p>
 
+<br>
+
 # 📃 Stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
@@ -44,8 +44,9 @@ Here are some ideas to get you started:
   <img width ="600" src="https://github-readme-streak-stats.herokuapp.com/?user=csanry&theme=prussian&hide_border=true">
 </p>
 
-
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+
+<br>
 
 # 🛠️ My favorite tools
 
