@@ -1,18 +1,18 @@
 <h1 align="left">👋 Hi there, I'm Clarence</h1>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/data%20analytics-34113F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/analytics-34113F?style=for-the-badge">
   <img src="https://img.shields.io/badge/data%20science-535ECF?style=for-the-badge">
   <img src="https://img.shields.io/badge/machine%20learning-107E7D?style=for-the-badge">
   <img src="https://img.shields.io/badge/deep%20learning-E3B505?style=for-the-badge">
-  <img src="https://img.shields.io/badge/natural%20language%20processing-CF539C?style=for-the-badge">
+  <img src="https://img.shields.io/badge/nlp-CF539C?style=for-the-badge">
 </p>
 
 - 🔭 I have a Master's in Analytics at the Singapore Management University.
 - 🧑‍💻 I enjoy applying data science techniques to aid business decision making and promote growth.
 - 🌱 I have 5 years of marketing and data analytics experience spanning across various industries, where I helped marketing teams make better decisions through MMM and Analytics techniques.
 
-<br>
+
 
 # 🎯 Quick links 
 
@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/clarencesan/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-<br>
+
 
 # 🔥 Focusing  
 
@@ -34,7 +34,7 @@
   <a href="https://github.com/csanry/mlalgos/"><img width="270" src="https://github-readme-stats.vercel.app/api/pin/?username=csanry&repo=mlalgos&theme=prussian&hide_border=true&show_icons=true" alt=""></a>
 </p>
 
-<br>
+
 
 # 📃 Stats
 
@@ -46,7 +46,7 @@
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-<br>
+
 
 # 🛠️ My favorite tools
 
