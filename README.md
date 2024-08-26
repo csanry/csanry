@@ -29,9 +29,9 @@
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 
 <p align="left">
-  <a href="https://github.com/pytorch/pytorch/"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=pytorch&repo=pytorch&theme=prussian&hide_border=true&show_icons=true" alt=""></a>
-  <a href="https://github.com/rust-lang/rust"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=rust-lang&repo=rust&theme=prussian&hide_border=true&show_icons=true" alt=""></a>
-  <a href="https://github.com/apache/airflow"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=airflow&theme=prussian&hide_border=true&show_icons=true" alt=""></a>
+  <a href="https://github.com/pytorch/pytorch/"><img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=pytorch&repo=pytorch&theme=prussian&hide_border=true&show_icons=true" alt=""></a>
+  <a href="https://github.com/rust-lang/rust"><img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=rust-lang&repo=rust&theme=prussian&hide_border=true&show_icons=true" alt=""></a>
+  <a href="https://github.com/apache/airflow"><img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=airflow&theme=prussian&hide_border=true&show_icons=true" alt=""></a>
 </p>
 
 
